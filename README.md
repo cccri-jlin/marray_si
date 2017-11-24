@@ -4,7 +4,7 @@ Supporting information for Horiuchi et. al, _"Characterizing key nucleotide poly
 
 DOI: [10.3892/ijo.2017.4209](https://doi.org/10.3892/ijo.2017.4209)
 
-This repository contains supplementary materials for the article above, as the _International Journal of Oncology_ does not host supplermentary materials on the journal server. 
+This repository contains supplementary materials for the article above, as the _International Journal of Oncology_ does not host supplementary materials on the journal server. 
 
 ## List of Contents
 
@@ -33,7 +33,7 @@ Genotypic significance is evaluated for genotypic frequencies, allele frequencie
 Statistical criterion: _p < .05_ (log<sub>10</sub> _p < –1.30_) after Bonferroni correction; _RID_, Reactome pathway accession number; _BG_, number of Homo sapiens genes in specified pathway; _Found_, number of enriched genes in specified pathway; _Expected_, the number of expected genes. _FE_, fold enrichment.
 [Location in article: the second "data available upon request" in **Discussion**]
 
-### marray_si_figs1.svg
+### marray_si_figS1.svg
 #### Figure S1
 **Association networks of proxy variants potentially associated with hepatitis C virus-induced liver conditions in Japanese subjects.**
 [Location in article: this is the high-resolution vector of **Figure 1c** in SVG format, as mentioned in the figure caption]
