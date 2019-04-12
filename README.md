@@ -1,10 +1,13 @@
 # marray_si
 
-Supporting information for Horiuchi et. al, _"Characterizing key nucleotide polymorphisms of hepatitis C virus-disease associations via mass-spectrometric genotyping."_
+Supporting information for Horiuchi & Lin et al, _"Characterizing key nucleotide polymorphisms of hepatitis C virus-disease associations via mass-spectrometric genotyping."_
 
 DOI: [10.3892/ijo.2017.4209](https://doi.org/10.3892/ijo.2017.4209)
 
 This repository contains supplementary materials for the article above, as the _International Journal of Oncology_ does not host supplementary materials on the journal server. 
+
+April 12, 2019: consolidation of repository to @jlincbio
+
 
 ## List of Contents
 
