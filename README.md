@@ -6,6 +6,8 @@ DOI: [10.3892/ijo.2017.4209](https://doi.org/10.3892/ijo.2017.4209)
 
 This repository contains supplementary materials for the article above, as the _International Journal of Oncology_ does not host supplementary materials on the journal server. 
 
+Aug 8, 2019: repo consolidated from @cccri-jlin; new URL: https://github.com/jlincbio/marray_si/
+
 ## List of Contents
 
 ### marray_si_tables.pdf
